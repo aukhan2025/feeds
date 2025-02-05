@@ -1,1 +1,3 @@
-
+cnn.com
+wikipedia.com
+bbc.co.uk
