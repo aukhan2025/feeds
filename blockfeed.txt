@@ -1,2 +1,2 @@
-0.0.0.0 cnn.com
+1.2.3.4 cnn.com
 0.0.0.0 wikipedia.com
