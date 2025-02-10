@@ -1,3 +1,2 @@
-cnn.com
-wikipedia.com
-bbc.co.uk
+0.0.0.0 cnn.com
+0.0.0.0 wikipedia.com
