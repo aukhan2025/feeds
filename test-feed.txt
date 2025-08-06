@@ -2,5 +2,4 @@ cnn.com
 wikipedia.com
 cricinfo.com
 paypal.com
-
-
+amazon.com
