@@ -1,4 +1,5 @@
-cnn.com
-wikipedia.com
-cricinfo.com
-paypal.com
+cnn.com.
+wikipedia.com.
+cricinfo.com.
+paypal.com.
+
