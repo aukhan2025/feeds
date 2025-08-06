@@ -3,4 +3,4 @@
 0.0.0.0 cricinfo.com
 0.0.0.0 paypal.com
 0.0.0.0 paypal.com
-
+0.0.0.0 bbc.co.uk
