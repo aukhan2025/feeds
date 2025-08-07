@@ -4,3 +4,4 @@
 0.0.0.0 paypal.com
 0.0.0.0 paypal.com
 0.0.0.0 bbc.co.uk
+0.0.0.0 example.com
