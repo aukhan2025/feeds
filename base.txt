@@ -5,3 +5,6 @@ jetos.com
 kimozone.com
 nayatel.com
 abc.com.au
+demo.net
+apptest.org 
+dnsdemo.net
