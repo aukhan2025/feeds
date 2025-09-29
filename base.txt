@@ -8,4 +8,5 @@ nayatel.com
 ebay.com
 abc.com.au
 xtest.com.au
+zebu10.com.au
 
