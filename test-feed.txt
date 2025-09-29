@@ -5,3 +5,4 @@
 0.0.0.0 wikipedia.com
 0.0.0.0 spotify.com
 0.0.0.0 zoro1.com.au
+0.0.0.0 zoro2.com.au
