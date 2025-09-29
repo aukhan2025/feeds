@@ -1,6 +1,4 @@
 customer-certificate.com
-youtubee.life
-yahooadmin.net
 jetos.com
 kimozone.com
 abc.com.au
@@ -10,3 +8,4 @@ nayatel.com
 ebay.com
 abc.com.au
 xtest.com.au
+
