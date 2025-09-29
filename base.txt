@@ -11,5 +11,3 @@ ebay.com
 abc.com.au
 test.com.au
 zebu1.com.au
-zebu2.com.au
-zebus3.com.au
